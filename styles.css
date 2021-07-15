@@ -57,7 +57,9 @@ li {
     display: inline-block;
   }
   
+#top,
 .quote,
+.pic,
 #florarium,
 .photos,
 #contact {
